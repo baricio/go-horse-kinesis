@@ -1,0 +1,11 @@
+dispatcher/.Python
+dispatcher/[Bb]in
+dispatcher/[Ii]nclude
+dispatcher/[Ll]ib
+dispatcher/[Ll]ib64
+dispatcher/[Ll]ocal
+dispatcher/[Ss]cripts
+dispatcher/[Tt]cl
+dispatcher/pyvenv.cfg
+dispatcher/.venv
+dispatcher/pip-selfcheck.json
